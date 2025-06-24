@@ -1,4 +1,4 @@
-[nmap_report_plain.txt](https://github.com/user-attachments/files/20868787/nmap_report_plain.txt)# Internship
+# Internship
 Cyber security intership 
 Task 1: Scan Your Local Network for Open Ports
 
@@ -68,36 +68,7 @@ Recommendation:
     Keep the web server software and any running web applications fully patched and securely configured.
 
 
- [Uploading nmap_report_plStarting Nmap 7.94SVN ( https://nmap.org ) at 2025-06-20 04:54 IST
-Stats: 0:00:10 elapsed; 0 hosts completed (0 up), 255 undergoing ARP Ping Scan
-ARP Ping Scan Timing: About 94.70% done; ETC: 04:54 (0:00:01 remaining)
-Stats: 0:00:11 elapsed; 0 hosts completed (0 up), 255 undergoing ARP Ping Scan
-ARP Ping Scan Timing: About 100.00% done; ETC: 04:54 (0:00:00 remaining)
-Nmap scan report for 192.168.20.1
-Host is up (0.0032s latency).
-Not shown: 997 filtered tcp ports (no-response)
-PORT   STATE SERVICE
-23/tcp open  telnet
-53/tcp open  domain
-80/tcp open  http
-MAC Address: FC:CD:2F:A6:1A:70 (Scopus International-belgium)
 
-Nmap scan report for 192.168.20.4
-Host is up (0.26s latency).
-All 1000 scanned ports on 192.168.20.4 are in ignored states.
-Not shown: 1000 filtered tcp ports (no-response)
-MAC Address: F0:9E:4A:6B:11:42 (Intel Corporate)
-
-Nmap scan report for 192.168.20.13
-Host is up (0.032s latency).
-All 1000 scanned ports on 192.168.20.13 are in ignored states.
-Not shown: 1000 closed tcp ports (reset)
-MAC Address: 02:43:A8:80:05:A3 (Unknown)
-
-Nmap scan report for 192.168.20.7
-Host is up (0.0000040s latency).
-All 1000 scanned ports on 192.168.20.7 are in ignored states.
-Not shown: 1000 closed tcp ports (reset)
 
 Nmap done: 256 IP addresses (4 hosts up) scanned in 37.94 seconds
 ain.txt…]()
