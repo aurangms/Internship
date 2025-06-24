@@ -11,7 +11,7 @@ Task 1: Scan Your Local Network for Open Ports
  - Nmap is a network scaning tool 
  - **nmap -sS 192.168.20.7/24 ** this is the command for scaning 
  - in my local network there are 4 hosts are up '192.168.20.1', '192.168.20.4', '192.168.20.13' and '192.168.20.7'
- - in the first howt there is 4 open ports and in the second there is none 
+ - in the first host there is 3 open ports and in the other three there is none 
  - the open ports are 23,53 and 80 
  - Telnet service running in the 23 port 
  - Domian service is running in the 53 port
